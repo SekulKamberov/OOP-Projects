@@ -1,0 +1,15 @@
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+\\psf\Home\Downloads\Telerik-Software-Academy-- IvayloAndonov\C# OOP\ExamPreparation\OOP-Exam-5-Mar-2014-Furniture\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb
+C:\Users\sekul\Desktop\Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\sekul\Desktop\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\sekul\Desktop\Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb
+C:\Users\sekul\Desktop\Furniture\New folder\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+C:\Users\sekul\Desktop\Furniture\New folder\FurnitureManufacturer\obj\Debug\Furnitures.exe
+C:\Users\sekul\Desktop\Furniture\New folder\FurnitureManufacturer\obj\Debug\Furnitures.pdb
+\\Mac\Home\Shared Folders\OOP\1. Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+\\Mac\Home\Shared Folders\OOP\1. Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+\\Mac\Home\Shared Folders\OOP\1. Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb
