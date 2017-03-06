@@ -1,0 +1,7 @@
+\\psf\Home\Downloads\TelerikAcademy-svetlai\Programming-with-C#\Object-Oriented-Programming\Exam-Preparation-Tasks\2013-03-25-Problem-2-AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.exe
+\\psf\Home\Downloads\TelerikAcademy-svetlai\Programming-with-C#\Object-Oriented-Programming\Exam-Preparation-Tasks\2013-03-25-Problem-2-AcademyRPG\AcademyRPG\AcademyRPG\bin\Debug\AcademyRPG.pdb
+\\psf\Home\Downloads\TelerikAcademy-svetlai\Programming-with-C#\Object-Oriented-Programming\Exam-Preparation-Tasks\2013-03-25-Problem-2-AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\TelerikAcademy-svetlai\Programming-with-C#\Object-Oriented-Programming\Exam-Preparation-Tasks\2013-03-25-Problem-2-AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+\\psf\Home\Downloads\TelerikAcademy-svetlai\Programming-with-C#\Object-Oriented-Programming\Exam-Preparation-Tasks\2013-03-25-Problem-2-AcademyRPG\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
+C:\Users\sekul\Desktop\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.exe
+C:\Users\sekul\Desktop\AcademyRPG\AcademyRPG\obj\Debug\AcademyRPG.pdb
